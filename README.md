@@ -1,11 +1,11 @@
 Full build coming soon, but for now:
 
-*Bash:*
+**Bash:**
 ```
 npm i && npm run dev
 ```
 
-*CMD:*
+**CMD:**
 ```
 npm i; npm run dev
 ```
