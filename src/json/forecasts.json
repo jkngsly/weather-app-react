@@ -1,0 +1,192 @@
+[
+  {
+    "forecast": "c",
+    "day": 0,
+    "wind": 16,
+    "windDirection": "se",
+    "humidity": 41,
+    "fahrenheit": {
+      "temperature": 75,
+      "feelsLike": 77,
+      "high": 76,
+      "low": 54
+    },
+    "celcius": {
+      "temperature": 23.8,
+      "feelsLike": 25,
+      "high": 24.4,
+      "low": 12.2
+    }
+  },
+  {
+    "forecast": "pc",
+    "day": 1,
+    "wind": 16,
+    "windDirection": "ne",
+    "humidity": 31,
+    "fahrenheit": {
+      "temperature": 71,
+      "feelsLike": 68,
+      "high": 72,
+      "low": 51
+    },
+    "celcius": {
+      "temperature": 21.6,
+      "feelsLike": 20,
+      "high": 22.2,
+      "low": 10.5
+    }
+  },
+  {
+    "forecast": "s",
+    "day": 2,
+    "wind": 10,
+    "windDirection": "nw",
+    "humidity": 24,
+    "fahrenheit": {
+      "temperature": 73,
+      "feelsLike": 75,
+      "high": 74,
+      "low": 61
+    },
+    "celcius": {
+      "temperature": 22.7,
+      "feelsLike": 23.8,
+      "high": 23.3,
+      "low": 16.1
+    }
+  },
+  {
+    "forecast": "c",
+    "day": 3,
+    "wind": 21,
+    "windDirection": "e",
+    "humidity": 36,
+    "fahrenheit": {
+      "temperature": 65,
+      "feelsLike": 63,
+      "high": 66,
+      "low": 50
+    },
+    "celcius": {
+      "temperature": 18.3,
+      "feelsLike": 17.2,
+      "high": 18.8,
+      "low": 10
+    }
+  },
+  {
+    "forecast": "r",
+    "day": 4,
+    "wind": 25,
+    "windDirection": "ne",
+    "humidity": 40,
+    "fahrenheit": {
+      "temperature": 61,
+      "feelsLike": 60,
+      "high": 61,
+      "low": 48
+    },
+    "celcius": {
+      "temperature": 16.1,
+      "feelsLike": 15.5,
+      "high": 16.1,
+      "low": 8.8
+    }
+  },
+  {
+    "forecast": "s",
+    "day": 5,
+    "wind": 10,
+    "windDirection": "se",
+    "humidity": 21,
+    "fahrenheit": {
+      "temperature": 68,
+      "feelsLike": 72,
+      "high": 70,
+      "low": 54
+    },
+    "celcius": {
+      "temperature": 20,
+      "feelsLike": 22.2,
+      "high": 21.1,
+      "low": 12.2
+    }
+  },
+  {
+    "forecast": "s",
+    "day": 6,
+    "wind": 7,
+    "windDirection": "nw",
+    "humidity": 28,
+    "fahrenheit": {
+      "temperature": 66,
+      "feelsLike": 68,
+      "high": 68,
+      "low": 49
+    },
+    "celcius": {
+      "temperature": 18.8,
+      "feelsLike": 20,
+      "high": 20,
+      "low": 9.4
+    }
+  },
+  {
+    "forecast": "c",
+    "day": 7,
+    "wind": 23,
+    "windDirection": "n",
+    "humidity": 31,
+    "fahrenheit": {
+      "temperature": 62,
+      "feelsLike": 58,
+      "high": 62,
+      "low": 42
+    },
+    "celcius": {
+      "temperature": 18.8,
+      "feelsLike": 20,
+      "high": 20,
+      "low": 9.4
+    }
+  },
+  {
+    "forecast": "s",
+    "day": 8,
+    "wind": 4,
+    "windDirection": "e",
+    "humidity": 26,
+    "fahrenheit": {
+      "temperature": 60,
+      "feelsLike": 55,
+      "high": 61,
+      "low": 41
+    },
+    "celcius": {
+      "temperature": 18.8,
+      "feelsLike": 20,
+      "high": 20,
+      "low": 9.4
+    }
+  },
+  {
+    "forecast": "pc",
+    "day": 9,
+    "wind": 24,
+    "windDirection": "sw",
+    "humidity": 36,
+    "fahrenheit": {
+      "temperature": 58,
+      "feelsLike": 57,
+      "high": 59,
+      "low": 40
+    },
+    "celcius": {
+      "temperature": 18.8,
+      "feelsLike": 20,
+      "high": 20,
+      "low": 9.4
+    }
+  }
+]
