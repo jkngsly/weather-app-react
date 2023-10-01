@@ -1,4 +1,6 @@
-Full build coming soon, but for now:
+A simple weather application built on React.js + Vite + Tailwind CSS.
+
+Full package.json build option coming soon, but for now...
 
 **Bash:**
 ```
